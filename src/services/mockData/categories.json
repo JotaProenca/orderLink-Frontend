@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Bebidas",
+      "description": "Refrigerantes, sucos e bebidas alcoólicas",
+      "active": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2", 
+      "name": "Lanches",
+      "description": "Hambúrgueres, sanduíches e porções",
+      "active": true,
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "X-Burger",
+      "description": "Hambúrguer com queijo, alface e tomate",
+      "price": 25.90,
+      "categoryId": "2",
+      "active": true,
+      "image": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Refrigerante Lata",
+      "description": "Refrigerante 350ml",
+      "price": 6.00,
+      "categoryId": "1", 
+      "active": true,
+      "image": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}
